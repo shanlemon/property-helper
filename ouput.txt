@@ -1,0 +1,716 @@
+--------------------
+8513 Bowling Green Dr #2, Austin, TX 78757
+Price $542000
+Rent Estimate $1445
+Cost to Rent Ratio $375.0865051903114
+--------------------
+1116 Atkinson Rd, Austin, TX 78752
+Price $492500
+Rent Estimate $1333
+Cost to Rent Ratio $369.46736684171043
+--------------------
+100 E Powell Ln, Austin, TX 78753
+Price $599000
+Rent Estimate $1718
+Cost to Rent Ratio $348.6612339930151
+--------------------
+3701 Orrell Ct, Austin, TX 78731
+Price $575000
+Rent Estimate $1684
+Cost to Rent Ratio $341.44893111638953
+--------------------
+10300 Morado Cv #601, Austin, TX 78759
+Price $600000
+Rent Estimate $1776
+Cost to Rent Ratio $337.8378378378378
+--------------------
+910 W 25th St #306, Austin, TX 78705
+Price $558500
+Rent Estimate $1718
+Cost to Rent Ratio $325.0873108265425
+--------------------
+2213 Poquito St #125, Austin, TX 78722
+Price $549000
+Rent Estimate $1697
+Cost to Rent Ratio $323.51208014142605
+--------------------
+401 Hammack, Austin, TX 78752
+Price $575000
+Rent Estimate $1807
+Cost to Rent Ratio $318.20697288323186
+--------------------
+909 Capitol Cor #2, Austin, TX 78756
+Price $568000
+Rent Estimate $1802
+Cost to Rent Ratio $315.20532741398443
+--------------------
+6484 Hart Ln, Austin, TX 78731
+Price $490000
+Rent Estimate $1571
+Cost to Rent Ratio $311.9032463399109
+--------------------
+1202 Stobaugh St Unit B, Austin, TX 78757
+Price $575000
+Rent Estimate $1849
+Cost to Rent Ratio $310.97890751757706
+--------------------
+408 Hammack Dr #2, Austin, TX 78752
+Price $575000
+Rent Estimate $1873
+Cost to Rent Ratio $306.99412706887347
+--------------------
+408 Hammack, Austin, TX 78752
+Price $575000
+Rent Estimate $1873
+Cost to Rent Ratio $306.99412706887347
+--------------------
+8907 Little Walnut Pkwy, Austin, TX 78758
+Price $485000
+Rent Estimate $1600
+Cost to Rent Ratio $303.125
+--------------------
+7616 Providence Ave #2, Austin, TX 78752
+Price $530000
+Rent Estimate $1774
+Cost to Rent Ratio $298.7598647125141
+--------------------
+410 Odell St #2, Austin, TX 78752
+Price $575000
+Rent Estimate $1931
+Cost to Rent Ratio $297.7731745209736
+--------------------
+7501 Sevilla Dr, Austin, TX 78752
+Price $525000
+Rent Estimate $1780
+Cost to Rent Ratio $294.9438202247191
+--------------------
+8143 Forest Mesa Dr, Austin, TX 78759
+Price $592000
+Rent Estimate $2049
+Cost to Rent Ratio $288.9214250854075
+--------------------
+910 W 25th St #203, Austin, TX 78705
+Price $489000
+Rent Estimate $1718
+Cost to Rent Ratio $284.63329452852156
+--------------------
+3821 Steck Ave, Austin, TX 78759
+Price $523000
+Rent Estimate $1838
+Cost to Rent Ratio $284.54842219804135
+--------------------
+409 W Odell St #2, Austin, TX 78752
+Price $549000
+Rent Estimate $1947
+Cost to Rent Ratio $281.97226502311247
+--------------------
+7509 Bethune Ave Unit A, Austin, TX 78752
+Price $579000
+Rent Estimate $2058
+Cost to Rent Ratio $281.3411078717201
+--------------------
+12323 Tomanet Trl, Austin, TX 78758
+Price $447500
+Rent Estimate $1596
+Cost to Rent Ratio $280.38847117794484
+--------------------
+208 W 45th St, Austin, TX 78751
+Price $599900
+Rent Estimate $2151
+Cost to Rent Ratio $278.8935378893538
+--------------------
+8200 Neely Dr #248, Austin, TX 78759
+Price $545000
+Rent Estimate $1961
+Cost to Rent Ratio $277.9194288628251
+--------------------
+810 Newport Ave, Austin, TX 78753
+Price $549000
+Rent Estimate $2059
+Cost to Rent Ratio $266.63428848955806
+--------------------
+6414 Westside Dr Unit B, Austin, TX 78731
+Price $425000
+Rent Estimate $1598
+Cost to Rent Ratio $265.9574468085106
+--------------------
+1305 Mearns Meadow Blvd, Austin, TX 78758
+Price $550000
+Rent Estimate $2092
+Cost to Rent Ratio $262.90630975143404
+--------------------
+1209 Oak Shadows Cir, Austin, TX 78758
+Price $589000
+Rent Estimate $2285
+Cost to Rent Ratio $257.7680525164114
+--------------------
+3110 Red River St Unit C-402, Austin, TX 78705
+Price $475000
+Rent Estimate $1844
+Cost to Rent Ratio $257.59219088937095
+--------------------
+7907 Northforest Dr, Austin, TX 78759
+Price $592000
+Rent Estimate $2316
+Cost to Rent Ratio $255.6131260794473
+--------------------
+1903 Belford Dr, Austin, TX 78757
+Price $595000
+Rent Estimate $2339
+Cost to Rent Ratio $254.38221462163318
+--------------------
+701 W Caddo St, Austin, TX 78753
+Price $564000
+Rent Estimate $2231
+Cost to Rent Ratio $252.8014343343792
+--------------------
+711 W 26th St #708, Austin, TX 78705
+Price $424900
+Rent Estimate $1684
+Cost to Rent Ratio $252.31591448931115
+--------------------
+4208 Harcourt Dr, Austin, TX 78727
+Price $599999
+Rent Estimate $2380
+Cost to Rent Ratio $252.10042016806722
+--------------------
+5106 Brookdale Ln, Austin, TX 78723
+Price $594000
+Rent Estimate $2357
+Cost to Rent Ratio $252.01527365294865
+--------------------
+900 Red Cliff Dr, Austin, TX 78758
+Price $519000
+Rent Estimate $2060
+Cost to Rent Ratio $251.94174757281553
+--------------------
+9004 Hunters Trce, Austin, TX 78758
+Price $520000
+Rent Estimate $2078
+Cost to Rent Ratio $250.24061597690087
+--------------------
+1208 E Saint Johns Ave Unit B, Austin, TX 78752
+Price $485000
+Rent Estimate $1963
+Cost to Rent Ratio $247.07080998471727
+--------------------
+7610 Northcrest Blvd, Austin, TX 78752
+Price $550000
+Rent Estimate $2230
+Cost to Rent Ratio $246.63677130044843
+--------------------
+2115 Elysian Flds, Austin, TX 78727
+Price $575000
+Rent Estimate $2378
+Cost to Rent Ratio $241.79983179142135
+--------------------
+2632 Century Park Blvd #36, Austin, TX 78727
+Price $447000
+Rent Estimate $1857
+Cost to Rent Ratio $240.7108239095315
+--------------------
+11719 Bell Ave Unit B, Austin, TX 78759
+Price $549000
+Rent Estimate $2306
+Cost to Rent Ratio $238.0745880312229
+--------------------
+1400 Lorraine Loop #1400, Austin, TX 78758
+Price $555700
+Rent Estimate $2339
+Cost to Rent Ratio $237.58016246259086
+--------------------
+600 Provines Dr, Austin, TX 78753
+Price $490000
+Rent Estimate $2070
+Cost to Rent Ratio $236.71497584541063
+--------------------
+12602 Limerick Ave, Austin, TX 78727
+Price $499000
+Rent Estimate $2115
+Cost to Rent Ratio $235.9338061465721
+--------------------
+606 W Lynn St #11, Austin, TX 78703
+Price $595000
+Rent Estimate $2548
+Cost to Rent Ratio $233.5164835164835
+--------------------
+8110 Furness Dr, Austin, TX 78753
+Price $545000
+Rent Estimate $2341
+Cost to Rent Ratio $232.80649295173004
+--------------------
+2706 Salado St #310, Austin, TX 78705
+Price $339000
+Rent Estimate $1457
+Cost to Rent Ratio $232.66986959505834
+--------------------
+12217 Arrowwood Dr, Austin, TX 78727
+Price $535000
+Rent Estimate $2309
+Cost to Rent Ratio $231.70203551320918
+--------------------
+8238 Summer Side Dr, Austin, TX 78759
+Price $500000
+Rent Estimate $2163
+Cost to Rent Ratio $231.16042533518262
+--------------------
+8703 Colonial Dr, Austin, TX 78758
+Price $445000
+Rent Estimate $1957
+Cost to Rent Ratio $227.38886050076647
+--------------------
+1900 Scofield Ridge Pkwy #5803, Austin, TX 78727
+Price $399500
+Rent Estimate $1764
+Cost to Rent Ratio $226.47392290249434
+--------------------
+7201 Creekside Dr, Austin, TX 78752
+Price $475000
+Rent Estimate $2101
+Cost to Rent Ratio $226.08281770585435
+--------------------
+1502 Jersey Dr, Austin, TX 78758
+Price $589000
+Rent Estimate $2643
+Cost to Rent Ratio $222.85281876655316
+--------------------
+806 W 24th St #132, Austin, TX 78705
+Price $440000
+Rent Estimate $2013
+Cost to Rent Ratio $218.5792349726776
+--------------------
+9009 North Plz #120, Austin, TX 78753
+Price $305000
+Rent Estimate $1399
+Cost to Rent Ratio $218.01286633309508
+--------------------
+1410 Dapplegrey Ln, Austin, TX 78727
+Price $599000
+Rent Estimate $2748
+Cost to Rent Ratio $217.97671033478895
+--------------------
+1301 S Meadows Dr, Austin, TX 78758
+Price $595000
+Rent Estimate $2730
+Cost to Rent Ratio $217.94871794871796
+--------------------
+12806 Lamppost Ln, Austin, TX 78727
+Price $499900
+Rent Estimate $2306
+Cost to Rent Ratio $216.78230702515177
+--------------------
+203 E Saint Johns Ave, Austin, TX 78752
+Price $585000
+Rent Estimate $2719
+Cost to Rent Ratio $215.1526296432512
+--------------------
+12700 Cantle Trl, Austin, TX 78727
+Price $523000
+Rent Estimate $2439
+Cost to Rent Ratio $214.43214432144322
+--------------------
+2510 San Gabriel St #102, Austin, TX 78705
+Price $317000
+Rent Estimate $1481
+Cost to Rent Ratio $214.04456448345712
+--------------------
+11406 Indianhead Dr, Austin, TX 78753
+Price $475000
+Rent Estimate $2247
+Cost to Rent Ratio $211.3929684023142
+--------------------
+13007 Garfield Ln, Austin, TX 78727
+Price $499000
+Rent Estimate $2366
+Cost to Rent Ratio $210.90448013524937
+--------------------
+6921 Bennett Ave, Austin, TX 78752
+Price $425000
+Rent Estimate $2016
+Cost to Rent Ratio $210.81349206349208
+--------------------
+5514 Roosevelt Ave, Austin, TX 78756
+Price $525000
+Rent Estimate $2503
+Cost to Rent Ratio $209.74830203755494
+--------------------
+1205 Clearfield Dr, Austin, TX 78758
+Price $599000
+Rent Estimate $2860
+Cost to Rent Ratio $209.44055944055944
+--------------------
+12701 Cinchring Ln, Austin, TX 78727
+Price $575000
+Rent Estimate $2748
+Cost to Rent Ratio $209.24308588064048
+--------------------
+2605 Century Park Blvd, Austin, TX 78727
+Price $579000
+Rent Estimate $2786
+Cost to Rent Ratio $207.82483847810482
+--------------------
+2106 Brunswick Dr, Austin, TX 78723
+Price $499900
+Rent Estimate $2406
+Cost to Rent Ratio $207.77223607647548
+--------------------
+935 La Posada Dr #247, Austin, TX 78752
+Price $329900
+Rent Estimate $1589
+Cost to Rent Ratio $207.61485210824418
+--------------------
+2216 San Gabriel St #103, Austin, TX 78705
+Price $349000
+Rent Estimate $1685
+Cost to Rent Ratio $207.12166172106825
+--------------------
+9807 Cottle Dr, Austin, TX 78753
+Price $499000
+Rent Estimate $2445
+Cost to Rent Ratio $204.08997955010224
+--------------------
+5214 Joe Sayers Ave #5, Austin, TX 78756
+Price $375000
+Rent Estimate $1846
+Cost to Rent Ratio $203.14192849404117
+--------------------
+1636 Maize Bend Dr, Austin, TX 78727
+Price $545000
+Rent Estimate $2686
+Cost to Rent Ratio $202.90394638868204
+--------------------
+902 W Village Ln, Austin, TX 78758
+Price $395000
+Rent Estimate $1957
+Cost to Rent Ratio $201.83955033214104
+--------------------
+912 W 22nd St #205, Austin, TX 78705
+Price $335000
+Rent Estimate $1667
+Cost to Rent Ratio $200.9598080383923
+--------------------
+1613 Deloney St, Austin, TX 78721
+Price $594700
+Rent Estimate $2972
+Cost to Rent Ratio $200.10094212651413
+--------------------
+6501 E Hill Dr #111, Austin, TX 78731
+Price $345500
+Rent Estimate $1728
+Cost to Rent Ratio $199.94212962962962
+--------------------
+7811 Northwest Dr, Austin, TX 78757
+Price $549000
+Rent Estimate $2750
+Cost to Rent Ratio $199.63636363636363
+--------------------
+8905 Trone Cir Unit C, Austin, TX 78758
+Price $350000
+Rent Estimate $1759
+Cost to Rent Ratio $198.97669130187606
+--------------------
+2320 Gracy Farms Ln #1312, Austin, TX 78758
+Price $425000
+Rent Estimate $2150
+Cost to Rent Ratio $197.67441860465115
+--------------------
+6105 Bullard Dr Unit A, Austin, TX 78757
+Price $525000
+Rent Estimate $2658
+Cost to Rent Ratio $197.51693002257338
+--------------------
+7811 Tisdale Dr, Austin, TX 78757
+Price $570000
+Rent Estimate $2893
+Cost to Rent Ratio $197.02730729346698
+--------------------
+8115 Parkdale Dr, Austin, TX 78757
+Price $600000
+Rent Estimate $3059
+Cost to Rent Ratio $196.1425302386401
+--------------------
+9866 Childress Dr, Austin, TX 78753
+Price $479000
+Rent Estimate $2445
+Cost to Rent Ratio $195.91002044989776
+--------------------
+12703 Esplanade St, Austin, TX 78727
+Price $430000
+Rent Estimate $2201
+Cost to Rent Ratio $195.36574284416176
+--------------------
+1310 W Parmer Ln Unit 28B, Austin, TX 78727
+Price $450000
+Rent Estimate $2314
+Cost to Rent Ratio $194.46845289541918
+--------------------
+3200 Bengston St, Austin, TX 78702
+Price $525000
+Rent Estimate $2707
+Cost to Rent Ratio $193.94163280384188
+--------------------
+935 La Posada Dr #128, Austin, TX 78752
+Price $308000
+Rent Estimate $1589
+Cost to Rent Ratio $193.83259911894274
+--------------------
+7507 Yates Ave, Austin, TX 78757
+Price $595000
+Rent Estimate $3071
+Cost to Rent Ratio $193.7479648323022
+--------------------
+1800 Lavaca St Unit A-108, Austin, TX 78701
+Price $425000
+Rent Estimate $2203
+Cost to Rent Ratio $192.9187471629596
+--------------------
+203 E 31st St #104, Austin, TX 78705
+Price $370000
+Rent Estimate $1919
+Cost to Rent Ratio $192.80875455966648
+--------------------
+1912 Montana Sky Dr, Austin, TX 78727
+Price $522000
+Rent Estimate $2716
+Cost to Rent Ratio $192.19440353460973
+--------------------
+1428 W Braker Ln Unit A & B, Austin, TX 78758
+Price $525000
+Rent Estimate $2746
+Cost to Rent Ratio $191.18718135469774
+--------------------
+4500 Adelphi Ln, Austin, TX 78727
+Price $569000
+Rent Estimate $3029
+Cost to Rent Ratio $187.85077583360845
+--------------------
+7920 Rockwood Ln #238, Austin, TX 78757
+Price $318000
+Rent Estimate $1694
+Cost to Rent Ratio $187.72136953955135
+--------------------
+9811 Oriole Dr, Austin, TX 78753
+Price $370000
+Rent Estimate $1976
+Cost to Rent Ratio $187.24696356275302
+--------------------
+3801 E Martin Luther King Jr Blvd, Austin, TX 78721
+Price $575000
+Rent Estimate $3106
+Cost to Rent Ratio $185.12556342562783
+--------------------
+12166 Metric Blvd #246, Austin, TX 78758
+Price $300000
+Rent Estimate $1623
+Cost to Rent Ratio $184.84288354898337
+--------------------
+2100 Bronte Dr, Austin, TX 78752
+Price $379000
+Rent Estimate $2051
+Cost to Rent Ratio $184.7879083373964
+--------------------
+1112 Red Cliff Dr, Austin, TX 78758
+Price $497000
+Rent Estimate $2692
+Cost to Rent Ratio $184.62109955423477
+--------------------
+9009 North Plz #133, Austin, TX 78753
+Price $335000
+Rent Estimate $1815
+Cost to Rent Ratio $184.57300275482095
+--------------------
+14451 Robert I Walker Blvd, Austin, TX 78728
+Price $325000
+Rent Estimate $1767
+Cost to Rent Ratio $183.92756083757783
+--------------------
+5811 Shreveport Dr, Austin, TX 78727
+Price $419900
+Rent Estimate $2287
+Cost to Rent Ratio $183.6029733275033
+--------------------
+11728 Santa Cruz Dr, Austin, TX 78759
+Price $499000
+Rent Estimate $2723
+Cost to Rent Ratio $183.25376423062798
+--------------------
+2402 Trafalgar Dr, Austin, TX 78723
+Price $533000
+Rent Estimate $2923
+Cost to Rent Ratio $182.34690386589122
+--------------------
+12508 Terra Nova Ln, Austin, TX 78727
+Price $599900
+Rent Estimate $3293
+Cost to Rent Ratio $182.17430914060128
+--------------------
+6300 Haney Dr, Austin, TX 78723
+Price $450000
+Rent Estimate $2498
+Cost to Rent Ratio $180.14411529223378
+--------------------
+14459 Robert I Walker Blvd, Austin, TX 78728
+Price $365000
+Rent Estimate $2081
+Cost to Rent Ratio $175.3964440172994
+--------------------
+7685 Northcross Dr #708, Austin, TX 78757
+Price $300000
+Rent Estimate $1731
+Cost to Rent Ratio $173.3102253032929
+--------------------
+1901 Browning Dr #80, Austin, TX 78752
+Price $350000
+Rent Estimate $2039
+Cost to Rent Ratio $171.6527709661599
+--------------------
+3806 Oak Creek Dr, Austin, TX 78727
+Price $449000
+Rent Estimate $2616
+Cost to Rent Ratio $171.63608562691132
+--------------------
+Undisclosed Address, Austin, TX 78723
+Price $495000
+Rent Estimate $2907
+Cost to Rent Ratio $170.27863777089783
+--------------------
+11607 Hidden Quail Dr, Austin, TX 78758
+Price $439000
+Rent Estimate $2580
+Cost to Rent Ratio $170.15503875968992
+--------------------
+1907 Tillery St, Austin, TX 78723
+Price $475000
+Rent Estimate $2798
+Cost to Rent Ratio $169.76411722659043
+--------------------
+8302 Franwood Ln, Austin, TX 78757
+Price $535000
+Rent Estimate $3181
+Cost to Rent Ratio $168.18610499842816
+--------------------
+4505 Sidereal Dr, Austin, TX 78727
+Price $515000
+Rent Estimate $3116
+Cost to Rent Ratio $165.2759948652118
+--------------------
+4159 Steck Ave #107, Austin, TX 78759
+Price $420000
+Rent Estimate $2546
+Cost to Rent Ratio $164.96465043205026
+--------------------
+2000 Cullen Ave #26, Austin, TX 78757
+Price $500000
+Rent Estimate $3045
+Cost to Rent Ratio $164.20361247947454
+--------------------
+2945 Moss St, Austin, TX 78722
+Price $550000
+Rent Estimate $3390
+Cost to Rent Ratio $162.24188790560473
+--------------------
+2035 Encino Cir, Austin, TX 78723
+Price $530000
+Rent Estimate $3308
+Cost to Rent Ratio $160.21765417170496
+--------------------
+1903 Hearthside Dr, Austin, TX 78757
+Price $445000
+Rent Estimate $2790
+Cost to Rent Ratio $159.49820788530465
+--------------------
+11938 Rosethorn Dr, Austin, TX 78758
+Price $404999
+Rent Estimate $2582
+Cost to Rent Ratio $156.85476374903175
+--------------------
+2600 Penny Ln #120, Austin, TX 78757
+Price $345000
+Rent Estimate $2242
+Cost to Rent Ratio $153.88046387154327
+--------------------
+1413 Suffolk Dr, Austin, TX 78723
+Price $525000
+Rent Estimate $3481
+Cost to Rent Ratio $150.8187302499282
+--------------------
+11606 Elk Park Trl, Austin, TX 78759
+Price $485000
+Rent Estimate $3245
+Cost to Rent Ratio $149.46070878274267
+--------------------
+2425 Ashdale Dr #56, Austin, TX 78757
+Price $250000
+Rent Estimate $1685
+Cost to Rent Ratio $148.3679525222552
+--------------------
+12913 Irongate Ave, Austin, TX 78727
+Price $370000
+Rent Estimate $2528
+Cost to Rent Ratio $146.36075949367088
+--------------------
+914 Bird Creek Dr, Austin, TX 78758
+Price $525500
+Rent Estimate $3613
+Cost to Rent Ratio $145.4469969554387
+--------------------
+13207 Lamplight Village Ave, Austin, TX 78727
+Price $396000
+Rent Estimate $2739
+Cost to Rent Ratio $144.57831325301206
+--------------------
+13002 Irongate Ave, Austin, TX 78727
+Price $395000
+Rent Estimate $2745
+Cost to Rent Ratio $143.89799635701274
+--------------------
+7203 Bennett Ave, Austin, TX 78752
+Price $397000
+Rent Estimate $2814
+Cost to Rent Ratio $141.08031272210377
+--------------------
+1104 Fauntleroy Trl, Austin, TX 78758
+Price $385000
+Rent Estimate $2744
+Cost to Rent Ratio $140.30612244897958
+--------------------
+5411 Harmon Ave, Austin, TX 78751
+Price $499900
+Rent Estimate $3600
+Cost to Rent Ratio $138.86111111111111
+--------------------
+1411 Gracy Farms Ln #67, Austin, TX 78758
+Price $368500
+Rent Estimate $2747
+Cost to Rent Ratio $134.14634146341464
+--------------------
+12107 Wycliff Ln, Austin, TX 78727
+Price $405000
+Rent Estimate $3114
+Cost to Rent Ratio $130.05780346820808
+--------------------
+941 E 52nd St, Austin, TX 78751
+Price $375000
+Rent Estimate $3018
+Cost to Rent Ratio $124.2544731610338
+--------------------
+2106 Lamplight Village Cir, Austin, TX 78727
+Price $600000
+Rent Estimate $5009
+Cost to Rent Ratio $119.78438810141745
+--------------------
+6215 Brookside Dr, Austin, TX 78723
+Price $475000
+Rent Estimate $4294
+Cost to Rent Ratio $110.61946902654867
+--------------------
+9009 North Plz #112, Austin, TX 78753
+Price $410000
+Rent Estimate $3813
+Cost to Rent Ratio $107.52688172043011
+--------------------
+1609 Rutland Dr, Austin, TX 78758
+Price $455000
+Rent Estimate $5461
+Cost to Rent Ratio $83.31807361289141
+--------------------
